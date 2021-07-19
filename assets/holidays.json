@@ -1,0 +1,245 @@
+{
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Muharram",
+      "holiday_name": "Muharram",
+      "description": "Many Muslims in countries such as the United States observe the start of the Islamic New Year on the first day of Muharram, which is the first month in the Islamic calendar",
+      "day": null,
+      "month": null,
+      "hijri_day": 1,
+      "hijri_month": 1,
+      "cultural_origin": {
+        "name": "Islamic"
+      },
+      "alias": [
+
+      ],
+      "country_origin": [
+        {
+          "name": "All"
+        }
+      ],
+      "holiday_dates": [
+        "http://mooncalendar.azurewebsites.net/api/v1/calendar/2020-08-21/?format=json",
+        "http://mooncalendar.azurewebsites.net/api/v1/calendar/2019-09-01/?format=json"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Isra_and_Mi%27raj",
+      "holiday_name": "Lailat al-Miʿraj",
+      "description": "",
+      "day": null,
+      "month": null,
+      "hijri_day": 27,
+      "hijri_month": 7,
+      "cultural_origin": {
+        "name": "Islamic"
+      },
+      "alias": [
+        {
+          "name": "Miraj Shareef"
+        }
+      ],
+      "country_origin": [
+        {
+          "name": "All"
+        },
+        {
+          "name": "India"
+        },
+        {
+          "name": "Pakistan"
+        }
+      ],
+      "holiday_dates": [
+        "http://mooncalendar.azurewebsites.net/api/v1/calendar/2020-03-22/?format=json"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ashura",
+      "holiday_name": "Ashura",
+      "description": "Yom Ashura or Ashura (Arabic: عاشوراء‎ ʻĀshūrā’) is the tenth day of Muḥarram, the first month in the Islamic calendar. For the majority of Shia Muslims Ashura marks the climax of the Remembrance of Muharram,[3] and commemorates the death of Husayn ibn Ali, the grandson of the Islamic prophet Muhammad, at the Battle of Karbala on 10 Muharram in the year 61 AH (in AHt: October 10, 680 CE). Sunni Muslims have the same accounts of these events, but ceremonial mourning did not become a custom – although poems, eulogizing and recounting the events were and continue to be common. Mourning for the incident began almost immediately after the Battle of Karbala. Popular elegies were written by poets to commemorate the Battle of Karbala during the Umayyad and Abbasid era, and the earliest public mourning rituals occurred in 963 CE during the Buyid dynasty. In Afghanistan, Iran, Iraq, Lebanon, Bahrain, Bangladesh and Pakistan, Ashura has become a national holiday, and many ethnic and religious communities participate in it.\r\nIn Sunni Islam, Ashura also marks the day that Moses and the Israelites were saved from Pharaoh by God creating a path in the Sea, and is the Islamic equivalent to Yom Kippur. Other commemorations include Noah leaving the Ark and Muhammad's arrival in Medina.",
+      "day": null,
+      "month": null,
+      "hijri_day": 10,
+      "hijri_month": 1,
+      "cultural_origin": {
+        "name": "Islamic"
+      },
+      "alias": [
+        {
+          "name": "Ashura-e-Moharram"
+        },
+        {
+          "name": "Yom Ashura"
+        },
+        {
+          "name": "عاشوراء"
+        }
+      ],
+      "country_origin": [
+        {
+          "name": "All"
+        },
+        {
+          "name": "India"
+        },
+        {
+          "name": "Pakistan"
+        }
+      ],
+      "holiday_dates": [
+        "http://mooncalendar.azurewebsites.net/api/v1/calendar/2020-08-30/?format=json",
+        "http://mooncalendar.azurewebsites.net/api/v1/calendar/2019-09-10/?format=json"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eid_al-Fitr",
+      "holiday_name": "Eid al Fitr",
+      "description": "Eid al-Fitr, also called the \"Festival of Breaking the Fast\", is a religious holiday celebrated by Muslims worldwide that marks the end of Ramadan, the Islamic holy month of fasting. This religious Eid is the first and only day in the month of Shawwal during which Muslims are not permitted to fast.",
+      "day": null,
+      "month": null,
+      "hijri_day": 1,
+      "hijri_month": 10,
+      "cultural_origin": {
+        "name": "Islamic"
+      },
+      "alias": [
+        {
+          "name": "Choti Eid"
+        },
+        {
+          "name": "Eid ul Fitr"
+        },
+        {
+          "name": "Meethi Eid"
+        }
+      ],
+      "country_origin": [
+        {
+          "name": "All"
+        },
+        {
+          "name": "India"
+        },
+        {
+          "name": "Pakistan"
+        }
+      ],
+      "holiday_dates": [
+        "http://mooncalendar.azurewebsites.net/api/v1/calendar/2020-05-24/?format=json",
+        "http://mooncalendar.azurewebsites.net/api/v1/calendar/2019-06-05/?format=json"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eid_al-Adha",
+      "holiday_name": "Eid al Adha",
+      "description": "Eid al-Adha, also called the \"Festival of the Sacrifice\", is the second of two Islamic holidays celebrated worldwide each year, and considered the holier of the two. It honors the willingness of Ibrahim to sacrifice his son as an act of obedience to God's command.",
+      "day": null,
+      "month": null,
+      "hijri_day": 10,
+      "hijri_month": 12,
+      "cultural_origin": {
+        "name": "Islamic"
+      },
+      "alias": [
+        {
+          "name": "Baqar Eid"
+        },
+        {
+          "name": "Bari Eid"
+        },
+        {
+          "name": "Eid ul Azha"
+        }
+      ],
+      "country_origin": [
+        {
+          "name": "All"
+        },
+        {
+          "name": "India"
+        },
+        {
+          "name": "Pakistan"
+        }
+      ],
+      "holiday_dates": [
+        "http://mooncalendar.azurewebsites.net/api/v1/calendar/2020-07-31/?format=json",
+        "http://mooncalendar.azurewebsites.net/api/v1/calendar/2019-08-12/?format=json"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Day_of_Arafah#:~:text=The%20Day%20of%20Arafah%20(Arabic,of%20the%20lunar%20Islamic%20Calendar.&text=At%20dawn%20of%20this%20day,and%20the%20Plain%20of%20Arafah.",
+      "holiday_name": "Day of Arafah",
+      "description": "The Day of Arafah (Arabic: يوم عرفة\u200E, romanized: Yawm ‘Arafah) is an Islamic holiday that falls on the 9th day of Dhu al-Hijjah of the lunar Islamic Calendar. It is the holiest day in the Islamic calendar (the holiest night being The Night of Power), the second day of the Hajj pilgrimage, and the day after is the first day of the major Islamic holiday of Eid al-Adha. At dawn of this day, Muslim pilgrims will make their way from Mina to a nearby hillside and plain called Mount Arafah and the Plain of Arafah. It was from this site that Muhammad gave one of his last famous sermons in the final year of his life. Some Muslims hold that part of the Quranic verse announcing that the religion of Islam had been perfected was revealed on this day",
+      "day": null,
+      "month": null,
+      "hijri_day": 9,
+      "hijri_month": 12,
+      "cultural_origin": {
+        "name": "Islamic"
+      },
+      "alias": [
+        {
+          "name": ""
+        },
+        {
+          "name": ""
+        },
+        {
+          "name": ""
+        }
+      ],
+      "country_origin": [
+        {
+          "name": ""
+        },
+        {
+          "name": ""
+        },
+        {
+          "name": ""
+        }
+      ],
+      "holiday_dates": [
+        "",
+        ""
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ramadan",
+      "holiday_name": "Ramadan",
+      "description": "Ramadan is the ninth month of the Islamic calendar, observed by Muslims worldwide as a month of fasting, prayer, reflection and community.",
+      "day": null,
+      "month": null,
+      "hijri_day": 1,
+      "hijri_month": 9,
+      "cultural_origin": {
+        "name": "Islamic"
+      },
+      "alias": [
+        {
+          "name": "Ramazan"
+        },
+        {
+          "name": "Ramzan"
+        }
+      ],
+      "country_origin": [
+        {
+          "name": "All"
+        },
+        {
+          "name": "India"
+        },
+        {
+          "name": "Pakistan"
+        }
+      ],
+      "holiday_dates": [
+        "http://mooncalendar.azurewebsites.net/api/v1/calendar/2020-04-25/?format=json"
+      ]
+    }
+  ]
+}
